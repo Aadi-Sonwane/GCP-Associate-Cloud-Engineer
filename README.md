@@ -7,7 +7,7 @@ GCP offers a broad range of services, including computing, data storage, data an
 
 GCP is a popular choice for businesses of all sizes, from startups to large enterprises. It is also used by governments and educational institutions.
 
-- [ ] Some of the benefits of using GCP include:
+## Some of the benefits of using GCP include:
 
 * Scalability: GCP is designed to scale to meet the needs of any business.
 * Reliability: GCP is built on Google's proven infrastructure, which is used to power some of the world's most popular websites and applications.
